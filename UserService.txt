@@ -1,1 +1,2 @@
-add user input..
+Get user input..
+Processing the data
